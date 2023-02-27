@@ -1,2 +1,2 @@
 # Recursion-exercise
-recursion exercise
+Two assignments from The Odin Project curriculum, in addition to recursion exercises from https://javascript.info/recursion and https://www.codingame.com/playgrounds/5422/js-interview-prep-recursion
